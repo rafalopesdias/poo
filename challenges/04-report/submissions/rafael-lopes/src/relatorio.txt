@@ -1,0 +1,10 @@
+João: 485.00
+Maria: 520.50
+Carlos: 564.90
+Ana: 520.00
+Bruna: 795.00
+Felipe: 585.00
+Paula: 455.00
+Renato: 460.00
+Luana: 580.00
+Thiago: 645.00
